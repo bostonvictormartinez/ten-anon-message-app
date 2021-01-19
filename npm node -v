@@ -1,0 +1,9 @@
+switch node version if it doesnt work under 10
+
+node -v
+nvm list
+nvm list
+    choose latest for install
+nvm use 12.10.10
+
+them rerun node body-parser.js
